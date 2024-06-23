@@ -1,0 +1,42 @@
+/* Joke.css */
+
+body {
+	background-color: rgb(47, 97, 80);
+}
+
+.joke {
+    font-family: 'Courier New', Courier, monospace;
+	width: auto;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: beige;
+    font-weight: 600;
+}
+
+h1 {
+	text-align: center;
+	color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+	text-align: center;
+	color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Joker{
+	background-image: url('/Joker Smile.jpeg');
+	background-size: cover;   
+	background-position: center;
+	background-repeat: no-repeat; 
+	height: 100px;
+	text-align: center;
+	color: beige;
+	font-family: 'Courier New', Courier, monospace;
+	
+}
